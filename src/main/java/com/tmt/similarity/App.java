@@ -1,4 +1,4 @@
-package com.inspur.similarity;
+package com.tmt.similarity;
 
 import com.hankcs.hanlp.HanLP;
 
